@@ -1,2 +1,3 @@
 a=20
-input(a)
+name ="Rafin"
+print("my name is", name)
