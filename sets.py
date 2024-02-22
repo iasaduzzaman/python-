@@ -5,7 +5,7 @@ Fruits={"apple","banana","cherry"}
 #print("banana" in thisset)
 #thisset.add("mango")         #add new fruits
 
-Flower={"lilly","rose","tulip"}
-Fruits.update(Flower)
-
+#Flower={"lilly","rose","tulip"}
+#Fruits.update(Flower)
+Fruits.remove("banana")
 print(Fruits)
