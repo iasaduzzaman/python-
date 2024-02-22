@@ -9,5 +9,7 @@ Fruits={"apple","banana","cherry"}
 #Fruits.update(Flower)
 #Fruits.remove("banana")  # remove method use for delete item from the sets.
 
-Fruits.discard("apple")
+#Fruits.discard("apple")
+x=Fruits.pop()
+print(x)
 print(Fruits)
