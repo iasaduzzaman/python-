@@ -1,7 +1,11 @@
-thisset={"apple","banana","cherry"}
+Fruits={"apple","banana","cherry"}
 # print(thisset)
 # print(len(thisset))
 # print(type(thisset))
 #print("banana" in thisset)
-thisset.add("mango")
-print(thisset)
+#thisset.add("mango")         #add new fruits
+
+Flower={"lilly","rose","tulip"}
+Fruits.update(Flower)
+
+print(Fruits)
