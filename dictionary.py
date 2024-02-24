@@ -6,3 +6,4 @@ thisdict ={
 #print(thisdict)
 print(thisdict["brand"])
 print(thisdict["model"])
+print(len(thisdict))
