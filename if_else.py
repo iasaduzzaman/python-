@@ -9,5 +9,6 @@ else:
     print("B ia greater than A") """
  #print("a") if a>b else print("b")  #in onloine if else condition
  #print("a") if a>b else print("=") if a == b else print("b")
-if a > b and c > a:
-    print("Both condition are true")
+#if a > b and c > a:
+if a > b or c > a:
+ print("Atleast one of the condition is true")
