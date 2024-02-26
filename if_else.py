@@ -6,5 +6,5 @@ elif a == b:
     print("A is equal to B")
 else:
     print("B ia greater than A") """
-print("a") if a>b else print("b")
-
+ #print("a") if a>b else print("b")  #in onloine if else condition
+print("a") if a>b else print("=") if a == b else print("b")
