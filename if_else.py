@@ -1,6 +1,6 @@
 a=220
 b=30
-c=500
+#c=500
 """if a>b:
     print("A is greater than B")
 elif a == b:
@@ -10,5 +10,7 @@ else:
  #print("a") if a>b else print("b")  #in onloine if else condition
  #print("a") if a>b else print("=") if a == b else print("b")
 #if a > b and c > a:
-if a > b or c > a:
- print("Atleast one of the condition is true")
+ #if a > b or c > a:
+ #print("Atleast one of the condition is true")
+if not b>a:
+    print("b is not greater than a")
