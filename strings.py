@@ -9,3 +9,6 @@ print(b[2:])
 
 a = "Hello, World!"
 print(a.upper())         # upper method return the string
+
+a = "Hello, World!"        # lower method return the string
+print(a.lower())         
