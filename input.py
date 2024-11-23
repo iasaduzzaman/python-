@@ -1,3 +1,1 @@
-a=20
-name ="Rafin"
-print("my name is", name)
+a=input("What is your name?:")
